@@ -1,25 +1,22 @@
 # 🏨 Hospitality-Analytics-Internship-Project
-📑 Table of Contents
-Overview
-Internship Details
-Business Problem
-Project Objectives
-Dataset Overview
-Tools & Technologies
-Project Workflow
-Excel Analysis
-SQL Analysis
-Power BI Dashboard
-Tableau Dashboard
-Key Performance Indicators (KPIs)
-Key Insights
-Business Recommendations
-Project Structure
-Results & Impact
-Skills Demonstrated
-Acknowledgements
-Author
-Overview
+## 📑 Table of Contents
+
+- [Overview](#overview)
+- [Business Problem](#business-problem)
+- [Objectives](#objectives)
+- [Dataset](#dataset)
+- [Tools & Technologies](#tools--technologies)
+- [Project Structure](#project-structure)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+- [Key Insights](#key-insights)
+- [Dashboard](#dashboard)
+- [Business Recommendations](#business-recommendations)
+- [How to Run This Project](#how-to-run-this-project)
+- [Results](#results)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
 
 This project was completed during a 3-month Data Analytics Internship focused on Hospitality Analytics.
 
